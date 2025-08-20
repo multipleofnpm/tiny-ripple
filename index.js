@@ -1,11 +1,3 @@
-/*!
- * tiny-ripple v0.1.0
- * A lightweight library that adds subtle ripple effects on touch/click interactions
- * https://github.com/yourusername/tiny-ripple
- * 
- * Copyright (c) 2025
- * Licensed under MIT
- */
 (function() {
     'use strict';
     
