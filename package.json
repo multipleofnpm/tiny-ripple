@@ -1,8 +1,18 @@
-{ 
-  "name": "tiny-ripple", 
-  "version": "0.2.1", 
+{
+  "name": "tiny-ripple",
+  "version": "0.2.1",
+  "description": "Tiny, lightweight ripple effect for web pages — creates subtle click/touch ripples.",
   "main": "index.js",
   "files": [
     "index.js"
+  ],
+  "keywords": [
+    "ripple",
+    "ripple-effect",
+    "touch",
+    "ui",
+    "animation",
+    "vanilla-js",
+    "tiny-ripple"
   ]
 }
