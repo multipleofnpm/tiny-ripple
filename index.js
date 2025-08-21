@@ -2,7 +2,7 @@
     'use strict';
     
     const defaultOptions = {
-        size: 60,
+        size: 50,
         duration: 500,
         color: 'rgba(0,0,0,0.3)',
         zIndex: 9999,
